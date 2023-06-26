@@ -12,4 +12,4 @@ In this repository, you will find the code and data used to train and evaluate t
 
 ## Further information
 
-I hope this project will provide valuable insights and ideas for other researchers and practitioners interested in applying deep learning techniques to financial forecasting problems. Please feel free to explore the repository and provide feedback or suggestions for improvements.
+I hope this project will provide valuable insights and ideas for other practitioners interested in applying deep learning techniques to financial forecasting problems. Please feel free to explore the repository and provide feedback or suggestions for improvements.
