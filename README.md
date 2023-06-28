@@ -1,10 +1,10 @@
 # Petrobras Stock Price Forecasting
 
-Welcome to my GitHub repository for the Petrobras Stock Price Forecasting Project!
+Welcome to the GitHub repository for the Petrobras stock price forecasting project. This repository contains code and data related to the **analysis** and **prediction** of stock prices using predictive modeling techniques.
 
 ## Objectives
 
-The goal of this project is to develop and apply a state-of-the-art deep learning multi-layer perceptron (MLP) model to forecast the stock prices of Petrobras, a leading Brazilian oil and gas company.
+The goal of this project is to analyse a large dataset of historical stock prices and related financial data for Petrobras, and develop and apply a state-of-the-art deep learning multi-layer perceptron (MLP) model to forecast the stock prices of Petrobras, a leading Brazilian oil and gas company.
 
 The stock market is a complex and dynamic environment, and accurate forecasting of stock prices is crucial for making informed investment decisions. This project aims to leverage the power of deep learning techniques to predict the future prices of Petrobras stock with high accuracy.
 
