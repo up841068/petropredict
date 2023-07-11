@@ -23,3 +23,5 @@ Overall, the MLP model performed the best in terms of MSE. However, it is import
 Overall, the baseline model seems to do a better job of predicting when the entire dataset is considered. However, the MLP model did a good job; for the 7-day forecast it achieved an MSE of 0.62 BRL, and the 1-day forecast of the next 7 days, it achieved an MSE of 0.37 BRL.
 
 Further improvements to this project could include selecting different ranges for the dataset, making monthly predictions based on moving averages, and implementing a production model to make real-time predictions.
+
+![Prediction](prediction.png)
