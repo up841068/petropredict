@@ -24,4 +24,4 @@ Overall, the baseline model seems to do a better job of predicting when the enti
 
 Further improvements to this project could include selecting different ranges for the dataset, making monthly predictions based on moving averages, and implementing a production model to make real-time predictions.
 
-![Prediction](prediction.png)
+![Prediction](predictions.png)
